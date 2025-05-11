@@ -1,7 +1,4 @@
-# Port-scanner-bash-C
-
-
-## Port scanner (bash/C)
+# Port scanner (bash/C)
 
 Here is 2 versions of port scanner:
 - **C version**: Faster and more efficient but requires compilation
